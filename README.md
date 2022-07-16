@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bumblebeejoe
-- 👀 I’m interested in AI and Machine learning
+- 👀 I’m interested in AI 
 - 🌱 I’m currently learning healthcare information technology
 - 💞️ I’m looking to collaborate on anything with data
 - 📫 How to reach me bumblebeejoe@gmail.com
