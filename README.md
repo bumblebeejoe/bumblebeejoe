@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bumblebeejoe
+- 👋 Hi, call me Joey
 - 👀 I’m interested in AI 
 - 🌱 I’m currently learning healthcare information technology
 - 💞️ I’m looking to collaborate on anything with data
